@@ -1,1 +1,5 @@
-# P5.1.2
+# P5.1.2 
+
+Valentin BAILLIEUX
+Andréas BOMBAERT
+Hugo DE GEORGI
